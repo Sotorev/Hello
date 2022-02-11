@@ -1,2 +1,2 @@
-# Hello
-Example 
+# About me
+My name is Jose 
